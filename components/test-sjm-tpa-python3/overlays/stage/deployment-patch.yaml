@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.7
+      - image: quay.io/sjmrhtap/test-sjm-tpa-python3:3ab8ae007b82ab84eb03878355a657d96b9e4d54@sha256:f02c651c1c0c6da9da55efbc831d655617ba90b0949f2547ae94fcde184cd127
         name: container-image  
